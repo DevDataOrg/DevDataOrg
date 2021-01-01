@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on freelance IOS Developer
+- 🌱 I’m currently learning: Swift, SwiftUI, Xcode, Core Data, Firebase, Combine, Almofire and etc..
+- 👯 I’m looking to collaborate on www.devdata.org
+- 📫 How to reach me: pmbiclub@gmail.com
+- ⚡ Fun fact: I am very happy if i am coding
+
+
 <img align="left" alt="IOS" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/ios.png?raw=true" />
 <img align="left" alt="Swift" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/swift.png?raw=true" />
 <img align="left" alt="Xcode" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/xcode.png?raw=true" />
@@ -8,11 +15,6 @@
 <img align="left" alt="Terminal" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/terminal.png?raw=true" />
 
 
-- 🔭 I’m currently working on freelance IOS Developer
-- 🌱 I’m currently learning: Swift, SwiftUI, Xcode, Core Data, Firebase, Combine, Almofire and etc..
-- 👯 I’m looking to collaborate on www.devdata.org
-- 📫 How to reach me: pmbiclub@gmail.com
-- ⚡ Fun fact: I am very happy if i am coding
 
 
 
