@@ -18,7 +18,7 @@
   <a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ProgrammaticallyCreatingConstraints.html"><img src="https://img.shields.io/badge/-Programmatic_Constraints-333333?style=flat"/></a> 
   <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/-Core_Data-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/coregraphics"><img src="https://img.shields.io/badge/-Core_Graphics-333333?style=flat"/></a> </br>
-  &nbsp; &nbsp; &nbsp; <a href="https://developer.apple.com/documentation/foundation/urlsession"><img src="https://img.shields.io/badge/-URLSession-333333?style=flat"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp;  <a href="https://developer.apple.com/documentation/foundation/urlsession"><img src="https://img.shields.io/badge/-URLSession-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/DISPATCH"><img src="https://img.shields.io/badge/-Grand_Central_Dispatch-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/corelocation"><img src="https://img.shields.io/badge/-Core_Location-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/mapkit"><img src="https://img.shields.io/badge/-MapKit-333333?style=flat"/></a> 
