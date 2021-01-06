@@ -1,12 +1,12 @@
 ### Hi there! 👋🏼 &nbsp; I'm Artem R ⏤ an freelance iOS Developer.👋  <br/>
-<h3> 👨🏻‍💻 &nbsp; About Me </h3> </br>
+<h3> 👨🏻‍💻 &nbsp; About Me </h3> 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs </br>
 - 🌱 &nbsp; I have a growing interest in app architecture and Swift design patterns and technology</br>
-- 🔭 I’m currently working on freelance IOS Developer</br>
-- 🌱 I’m currently learning: Swift, SwiftUI, Xcode, Core Data, Firebase, Combine, Almofire and etc..</br>
-- 👯 I’m looking to collaborate on www.devdata.org </br>
-- 📫 How to reach me: pmbiclub@gmail.com </br>
-- ⚡ Fun fact: I am very happy if i am coding </br>
+- 🔭 &nbsp; I’m currently working on freelance IOS Developer</br>
+- 🌱 &nbsp; I’m currently learning: Swift, SwiftUI, Xcode, Core Data, Firebase, Combine, Almofire and etc..</br>
+- 👯 &nbsp; I’m looking to collaborate on www.devdata.org </br>
+- 📫 &nbsp; How to reach me: pmbiclub@gmail.com </br>
+- ⚡  &nbsp; Fun fact: I am very happy if i am coding </br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 🗣 &nbsp;
