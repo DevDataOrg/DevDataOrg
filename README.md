@@ -8,8 +8,8 @@
 - 📫 How to reach me: pmbiclub@gmail.com </br>
 - ⚡ Fun fact: I am very happy if i am coding </br>
 
-<h3> 🛠 &nbsp;Tech Stack</h3> </br>
-- 🗣 &nbsp; </br>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🗣 &nbsp;
   <a href="https://swift.org"><img src="https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift"/></a> 
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow"/></a> 
   - 🏗 &nbsp; </br>
