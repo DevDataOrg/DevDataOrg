@@ -17,8 +17,8 @@
   <a href="https://developer.apple.com/library/archive/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UsingInterfaceBuilder.html"><img src="https://img.shields.io/badge/-Interface_Builder-333333?style=flat"/></a> 
   <a href="https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/ProgrammaticallyCreatingConstraints.html"><img src="https://img.shields.io/badge/-Programmatic_Constraints-333333?style=flat"/></a> 
   <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/-Core_Data-333333?style=flat"/></a>
-  <a href="https://developer.apple.com/documentation/coregraphics"><img src="https://img.shields.io/badge/-Core_Graphics-333333?style=flat"/></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://developer.apple.com/documentation/foundation/urlsession"><img src="https://img.shields.io/badge/-URLSession-333333?style=flat"/></a>
+  <a href="https://developer.apple.com/documentation/coregraphics"><img src="https://img.shields.io/badge/-Core_Graphics-333333?style=flat"/></a> </br>
+  <a href="https://developer.apple.com/documentation/foundation/urlsession"><img src="https://img.shields.io/badge/-URLSession-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/DISPATCH"><img src="https://img.shields.io/badge/-Grand_Central_Dispatch-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/corelocation"><img src="https://img.shields.io/badge/-Core_Location-333333?style=flat"/></a>
   <a href="https://developer.apple.com/documentation/mapkit"><img src="https://img.shields.io/badge/-MapKit-333333?style=flat"/></a> 
@@ -28,8 +28,7 @@
   - 🛠 &nbsp;
   <a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode"/></a>
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></a> </br> 
-
-
+  
 <img align="left" alt="IOS" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/ios.png?raw=true" /> 
 <img align="left" alt="Swift" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/swift.png?raw=true" />
 <img align="left" alt="Xcode" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/xcode.png?raw=true" />
