@@ -1,4 +1,4 @@
-### Hi there! 👋🏼 &nbsp; I'm Artem R ⏤ an freelance iOS Developer.👋  <br/>
+### Hi there! 👋🏼 &nbsp; I'm Artem ⏤ an freelance.👋  <br/>
 <h3> 👨🏻‍💻 &nbsp; About Me </h3> 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs </br>
 - 🌱 &nbsp; I have a growing interest in app architecture and Swift design patterns and technology</br>
