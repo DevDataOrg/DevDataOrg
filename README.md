@@ -7,14 +7,6 @@
 - 👯 &nbsp; I’m looking to collaborate on www.devdata.org </br>
 - 📫 &nbsp; How to reach me: pmbiclub@gmail.com </br>
 
-<img align="left" alt="IOS" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/ios.png?raw=true" /> 
-<img align="left" alt="Swift" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/swift.png?raw=true" />
-<img align="left" alt="Xcode" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/xcode.png?raw=true" />
-<img align="left" alt="Firebase" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/firebase.png?raw=true" />
-<img align="left" alt="Git" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/git.png?raw=true" />
-<img align="left" alt="GitHub" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/github.png?raw=true" />
-<img align="left" alt="Terminal" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/terminal.png?raw=true" /> </br>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 &nbsp;&nbsp;&nbsp;
@@ -36,6 +28,15 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+<p>
+<img align="left" alt="Swift" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/swift.png?raw=true" />
+<img align="left" alt="Xcode" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/xcode.png?raw=true" />
+<img align="left" alt="Firebase" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/firebase.png?raw=true" />
+<img align="left" alt="Git" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/git.png?raw=true" />
+<img align="left" alt="GitHub" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/github.png?raw=true" />
+<img align="left" alt="Terminal" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/terminal.png?raw=true" /> </br>
 </p>
 
 
