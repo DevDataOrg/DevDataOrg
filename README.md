@@ -11,6 +11,9 @@
 
 &nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?logo=gmail&logoColor=white&link=mailto:pmbiclub@gmail.com)](mailto:pmbiclub@gmail.com)
+[![telegram_badge]][telegram_link]
+[telegram_badge]: https://img.shields.io/badge/telegram-❤️-252850?style=plastic&logo=telegram
+[telegram_link]: https://t.me/ArtemPMBI
 
 ### Skills
 <p align="left">
@@ -39,7 +42,6 @@
 <img align="left" alt="Terminal" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/terminal.png?raw=true" /> </br>
 </p>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DevDataOrg">
 
 
 <!--
