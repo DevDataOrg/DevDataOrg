@@ -39,6 +39,8 @@
 <img align="left" alt="Terminal" height="40px" src="https://github.com/DevDataOrg/DevDataOrg/blob/main/terminal.png?raw=true" /> </br>
 </p>
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DevDataOrg">
+
 
 <!--
 **DevDataOrg/DevDataOrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
