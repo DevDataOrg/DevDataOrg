@@ -1,9 +1,9 @@
 ### Hi there! 👋🏼 &nbsp; I'm Artem ⏤ an freelance.👋  <br/>
 <h3> 👨🏻‍💻 &nbsp; About Me </h3> 
 - ❤️ &nbsp; I love learning and experimenting with new technologies, frameworks, and UI designs </br>
-- 🌱 &nbsp; I have a growing interest in app architecture and HTML,CSS, JavaScript, Swift design patterns and technology</br>
+- 🌱 &nbsp; I have a growing interest in app architecture and HTML,CSS, JavaScript, React Swift design patterns and technology</br>
 - 🔭 &nbsp; I’m currently working on freelance WEB Developer</br>
-- 🌱 &nbsp; I’m currently learning: React, Swift, SwiftUI, Core Data, Firebase, Combine, Almofire and etc..</br>
+- 🌱 &nbsp; I’m currently learning: JavaScript, React, Swift, SwiftUI, Core Data, Firebase, Combine, Almofire and etc..</br>
 - 👯 &nbsp; I’m looking to collaborate on www.devdata.org </br>
 - 📫 &nbsp; How to reach me: pmbiclub@gmail.com </br>
 
