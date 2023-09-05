@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-DB4437?logo=gmail&logoColor=white&link=mailto:pmbiclub@gmail.com)](mailto:pmbiclub@gmail.com)
 
 
-[![telegram_badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/ArtemPMBI)
+[![telegram_badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArtemPMBI)
 
 ### Skills
 <p align="left">
